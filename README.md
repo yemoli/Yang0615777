@@ -6,7 +6,7 @@
 
  ****
  ## 雁不过衡阳 ' s Link
-- ⭐️ FreeBuf： https://www.freebuf.com/author/%E5%86%AC%E9%9B%AA%E5%9C%A8%E7%BA%BF%E6%8C%96%E6%B4%9E?type=article
+- ⭐️ FreeBuf： https://www.freebuf.com/author/%E5%86%AC%E9%9B%AA%E5%9C%A8%E7%BA%BF%E6%8C%96%E6%B4%9E
 - ⭐️ 知乎： https://www.zhihu.com/people/du-ji-4-87
 - ⭐️ GitHub： https://github.com/Yang0615777
 - ⭐️ WeChat： SecDev_Yang
